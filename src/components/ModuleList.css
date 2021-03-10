@@ -1,0 +1,50 @@
+input:focus, button:focus { outline: none;}
+form { margin: 1rem 0;}
+input {
+    height: 1.8em;
+    width: 40vw;
+    padding: 0.2em 0.5em;
+    font-family: Times, serif;
+    color: #77b3ff;
+    border: 0.1em solid #fcfcfc;
+    font-weight: 600;
+}
+button {
+    height: 2.5em;
+    background-color: #77b3ff;
+    color: #fcfcfc;
+    border: 0.2em solid #fcfcfc;
+}
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 0.5em;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 1em;
+    background-color: rgba(239, 239, 239, .5);
+    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+.scrollable {
+    max-height: 50vh;
+    overflow-y: scroll;
+    margin-top: 2em;
+}
+.searchInputLO { margin-right: 0.8em;}
+.errorSK {color: rgb(212, 22, 22);}
+.loadingSK {color: #fcfcfc;}
+.searchResultLO { 
+    padding: 0.5em;
+    margin: 0 auto;
+    max-width: 15rem;
+}
+.searchResultSK {
+    background-color: #fcfcfc;
+    color:#77b3ff;
+}
+
+@media screen and (min-width: 768px) {
+    input {
+        width: 20vw;
+    }
+}

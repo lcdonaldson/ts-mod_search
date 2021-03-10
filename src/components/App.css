@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5, p { margin: 0; padding: 0; }
+body { background-color: #77b3ff; }
+.wrapperLO {
+    display: flex;
+    text-align: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.titleLO {
+    font-size: 2.7em;
+    margin-top: 5vh;
+}
+.titleSK { color: #fcfcfc; }
+
+@media screen and (min-width: 640px) {
+    .titleLO { margin-top: 15vh}
+}
