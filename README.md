@@ -4,12 +4,14 @@
 
 ### I created this quick search as a mobile first design, but it can expand responsively to a desktop size as well.
 
+![alt text](https://github.com/lcdonaldson/ts-mod_search/blob/master/src/assets/mod-search-mobile.png?raw=true)
 
-<img src="https://github.com/lcdonaldson/ts-mod_search/blob/master/mod-search-mobile.jpg" height="250"></img>
+![alt text](https://github.com/lcdonaldson/ts-mod_search/blob/master/src/assets/mod-search-desktop.png?raw=true)
 
-<img src="https://github.com/lcdonaldson/ts-mod_search/blob/master/mod-search-desktop.jpg" height="250"></img>
 
-### `yarn start`
+### To run the project use: 
+
+`yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
