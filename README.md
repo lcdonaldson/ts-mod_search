@@ -1,6 +1,6 @@
 # Module Search
 
-## This is my Typescript App to search the NPM registry for package names. This is done with redux, hooks, and a get call from axios.
+## This is my Typescript App to search the NPM registry for package names. This was done with redux, hooks, and a get call from axios.
 
 ### I created this quick search as a mobile first design, but it can expand responsively to a desktop size as well.
 
