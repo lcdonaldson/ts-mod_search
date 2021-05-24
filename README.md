@@ -2,7 +2,7 @@
 
 ## This is my Typescript app to search the NPM registry for package names. This was done with redux, hooks, and a get call from axios.
 
-## I created this quick search as a mobile first design, but it can expand responsively to a desktop size as well.
+### I created this quick search as a mobile first design, but it can expand responsively to a desktop size as well.
 
 
 
